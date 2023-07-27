@@ -1,0 +1,6 @@
+
+#request for playes name
+nombre_jugador = input("Ingrese su nombre: ")
+
+# Message print and name
+print(f"Bienvenido, {nombre_jugador}!")
